@@ -18,11 +18,11 @@ The application optionally takes one of three values as a command line argument:
 
 The application defaults to `NORMAL` if no command line arguments are specified.
 
-(Use a `\` character to represent a `(&#955;)`.)
+(Use a `\` character to represent a &#955;.)
 
 ### Example 1 (defaulting to `NORMAL` evaluation order):
 
-```bash
+```
 $ java -jar target/lambda-calculus-interpreter-1.0-SNAPSHOT.jar
 
 > (\s.(s s) (\x.x \y.y))
@@ -37,7 +37,7 @@ Result: \y.y
 
 ### Example 2 (using `APPLICATIVE` evaluation order):
 
-```bash
+```
 $ java -jar target/lambda-calculus-interpreter-1.0-SNAPSHOT.jar APPLICATIVE
 
 > (\s.(s s) (\x.x \y.y))
@@ -51,7 +51,7 @@ Result: \y.y
 
 ### Example 3 (using `LAZY` evaluation order):
 
-```bash
+```
 $ java -jar target/lambda-calculus-interpreter-1.0-SNAPSHOT.jar LAZY
 
 > (\s.(s s) (\x.x \y.y))
