@@ -1,5 +1,7 @@
 # Lambda (&#955;) calculus interpreter
 
+[![Build Status](https://travis-ci.org/webber-s/lambda-calculus-interpreter.png?branch=master)](https://travis-ci.org/webber-s/lambda-calculus-interpreter)
+
 ## About
 
 This project provides a Java 7 implementation of a read-evaluate-print loop for the evaluation of lambda calculus expressions.
