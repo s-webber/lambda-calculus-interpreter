@@ -2,7 +2,7 @@
 
 ## About
 
-This project provides a Java implementation of a read-evaluate-print loop for the evaluation of lambda calculus expressions.
+This project provides a Java 7 implementation of a read-evaluate-print loop for the evaluation of lambda calculus expressions.
 
 ## Building
 
