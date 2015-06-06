@@ -1,6 +1,6 @@
 # Lambda (&#955;) calculus interpreter
 
-[![Build Status](https://travis-ci.org/webber-s/lambda-calculus-interpreter.png?branch=master)](https://travis-ci.org/webber-s/lambda-calculus-interpreter)
+[![Build Status](https://travis-ci.org/s-webber/lambda-calculus-interpreter.png?branch=master)](https://travis-ci.org/s-webber/lambda-calculus-interpreter)
 
 ## About
 
@@ -8,7 +8,7 @@ This project provides a Java 7 implementation of a read-evaluate-print loop for 
 
 ## Building
 
-The application can be built using Maven. e.g.: `mvn package`
+The project can be built using Maven and Java 7 by executing the following from the command line: `mvn package`.
 
 ## Running
 
