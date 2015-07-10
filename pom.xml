@@ -6,7 +6,7 @@
 	<packaging>jar</packaging>
 	<version>1.0-SNAPSHOT</version>
 	<name>lambda-calculus-interpreter</name>
-	<url>https://github.com/webber-s/lambda-calculus-interpreter</url>
+	<url>https://github.com/s-webber/lambda-calculus-interpreter</url>
 
 	<properties>
 		<maven.compiler.source>7</maven.compiler.source>
