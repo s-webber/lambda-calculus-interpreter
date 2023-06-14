@@ -1,6 +1,6 @@
 # Lambda (&#955;) calculus interpreter
 
-[![Build Status](https://travis-ci.org/s-webber/lambda-calculus-interpreter.png?branch=master)](https://travis-ci.org/s-webber/lambda-calculus-interpreter)
+[![Build Status](https://github.com/s-webber/lambda-calculus-interpreter/actions/workflows/github-actions.yml/badge.svg)](https://github.com/s-webber/lambda-calculus-interpreter/actions/)
 
 ## About
 
